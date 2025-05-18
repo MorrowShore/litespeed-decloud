@@ -1,4 +1,4 @@
-=== LiteSpeed Decloud | Remove QUIC.cloud features form LiteSpeed ===
+=== LiteSpeed Decloud: Remove QUIC.cloud features form LiteSpeed ===
 Contributors: MorrowShore
 Stable tag: 1.0
 Tested up to: 6.8.1
