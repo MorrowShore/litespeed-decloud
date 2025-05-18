@@ -48,7 +48,7 @@ You can support us on:
 [KoFi](https://kofi.com/morrowshore):
 https://kofi.com/morrowshore
 
-[Patreon.com](https://patreon.com/morrowshore):
+[Patreon](https://patreon.com/morrowshore):
 https://patreon.com/morrowshore
 
 [Store](https://morrowshore.com/store):
