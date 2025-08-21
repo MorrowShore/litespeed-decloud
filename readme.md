@@ -1,8 +1,8 @@
-=== LiteSpeed Decloud: Remove QUIC.cloud features form LiteSpeed ===
+=== DeCloud for LiteSpeed: Remove QUIC.cloud Features ===
 Contributors: MorrowShore
-Stable tag: 1.0
-Tested up to: 6.8.1
-Tags: litespeed, decloud, litespeed decloud, clean, cache, litespeed debloat, debloat, openlitespeed, quic.cloud, quic.cloud removal, litespeed quic.cloud removal,
+Stable tag: 1.2
+Tested up to: 6.8
+Tags: litespeed, decloud, clean, cache, quic.cloud
 License: AGPLv3
 License URI: https://www.gnu.org/licenses/agpl-3.0.en.html
 
